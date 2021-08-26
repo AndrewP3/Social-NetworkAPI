@@ -7,10 +7,6 @@ An API for a social network web application where users can share their thoughts
 As s social media startup
 I want an API for my social network that uses a NoSQL database so that my website can handle large amounts of unstructured data
 
-## Walkthrough Video
-
-<link>
-
 ## Acceptance Criteria
 
 - GIVEN a social network API
