@@ -1,0 +1,27 @@
+{
+  "name": "Social-NetworkAPI",
+  "version": "1.0.0",
+  "description": "An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. This application utilizes Express, Mongoose, and MongoDB to allow users to be create thoughts, as well as update and delete reactions.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.13.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewP3/Social-NetworkAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewP3/Social-NetworkAPI/issues"
+  },
+  "homepage": "https://github.com/AndrewP3/Social-NetworkAPI#readme"
+}
